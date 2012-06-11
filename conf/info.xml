@@ -7,4 +7,11 @@
 	<author email_address="bnu@xemagazine.com" link="http://xemagazine.com/">
 		<name xml:lang="ko">BNU</name>
 	</author>
+
+	<extra_vars>
+		<var id="cast_id">
+			<type>text</type>
+			<name xml:lang="ko">cast_id</name>
+		</var>
+	</extra_vars>
 </widget>
